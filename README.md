@@ -10,4 +10,6 @@ java -jar .\rubato4rubato.jar
 ```
 
 ### User Manual
-For a video tutorial and demonstration of Rubato4Rubato, please go to https://youtu.be/lWt9-VRv_ug
+For a video tutorial and demonstration of Rubato4Rubato, please go to https://youtu.be/lWt9-VRv_ug.
+
+Otherwise, a more traditional PDF with descriptions of Rubato4Rubato's features can be found within this repository.
